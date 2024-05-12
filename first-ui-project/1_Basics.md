@@ -55,6 +55,11 @@ Goto any folder where you want to create new project
         cmd line -> project location -> code .
 
 
+For existing angular project
+
+        ng install -- to install node modules
+
+        ng serve --- to run the application
 
 
 
