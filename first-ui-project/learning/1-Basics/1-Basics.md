@@ -1,4 +1,4 @@
-# Angular
+# Angular Basic
 
 - is a framework written in JS
 - front-end developmet framework
@@ -81,7 +81,8 @@ Use NVM(node version manager) to use multiple versionin same operating system
 
 ### package.josn
 
--   dependency and version
+- dependency and version
+- details about project. commands
 
 ### node_modules
 
@@ -111,8 +112,7 @@ Use NVM(node version manager) to use multiple versionin same operating system
 ### angular.json
 - if we want to load other html file during start-up instead of index.html. We can change it inside this file
 
-### tsconfig files
-- 
+
 
 
 
